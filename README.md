@@ -1,18 +1,18 @@
 # WebCrafters-Full-Stack-Bootcamp
 
 ### `HTML-CSS proje.html Screenshoots`
-![Screenshot 2024-07-07 133022](https://github.com/yarenaktass/WebCrafters-Full-Stack-Bootcamp/assets/116076419/de9c2fd9-dafb-414b-80e8-842e1195eab6)
+![Screenshot 2024-07-07 133022](https://github.com/yarenaktass/yarenaktass-WebCrafters-Full-Stack-Bootcamp/assets/116076419/63901ac8-fb05-4976-9478-eb1506637099)
 
-![Screenshot 2024-07-07 133144](https://github.com/yarenaktass/WebCrafters-Full-Stack-Bootcamp/assets/116076419/f0b1fc2a-151e-4e22-9ce3-2b59a90f3c63)
+![Screenshot 2024-07-07 133036](https://github.com/yarenaktass/yarenaktass-WebCrafters-Full-Stack-Bootcamp/assets/116076419/21627433-9877-4b20-8b92-daa5842cb33d)
 
-![Screenshot 2024-07-07 133036](https://github.com/yarenaktass/WebCrafters-Full-Stack-Bootcamp/assets/116076419/3eb4bcb5-c149-4531-8c2d-72fea634c738)
+![Screenshot 2024-07-07 133144](https://github.com/yarenaktass/yarenaktass-WebCrafters-Full-Stack-Bootcamp/assets/116076419/0cde2868-f8c7-4fda-9376-8f15c54dfade)
 
 ### `JavaScript movies.html Screenshoots`
-![Screenshot 2024-07-07 133209](https://github.com/yarenaktass/WebCrafters-Full-Stack-Bootcamp/assets/116076419/9dd05357-af36-4dcc-a251-100c61775700)
+![Screenshot 2024-07-07 133209](https://github.com/yarenaktass/yarenaktass-WebCrafters-Full-Stack-Bootcamp/assets/116076419/622e00c6-5530-41c1-85c4-6861c2d2ec3f)
 
-![Screenshot 2024-07-07 133254](https://github.com/yarenaktass/WebCrafters-Full-Stack-Bootcamp/assets/116076419/465d654c-4c2e-49a4-bbef-41c4fb2a8b5a)
+![Screenshot 2024-07-07 133254](https://github.com/yarenaktass/yarenaktass-WebCrafters-Full-Stack-Bootcamp/assets/116076419/d6f97d76-2da1-4368-8fa2-a8bb3a963f12)
 
-![Screenshot 2024-07-07 133309](https://github.com/yarenaktass/WebCrafters-Full-Stack-Bootcamp/assets/116076419/24f89577-f7f1-489e-953d-1844efccdc21)
+![Screenshot 2024-07-07 133309](https://github.com/yarenaktass/yarenaktass-WebCrafters-Full-Stack-Bootcamp/assets/116076419/03d8c8f2-371d-494f-87c3-77e612f36e23)
 
-![Screenshot 2024-07-07 133320](https://github.com/yarenaktass/WebCrafters-Full-Stack-Bootcamp/assets/116076419/d37b4201-643a-4313-83bf-15b06d8caec4)
+![Screenshot 2024-07-07 133320](https://github.com/yarenaktass/yarenaktass-WebCrafters-Full-Stack-Bootcamp/assets/116076419/513052d8-850a-44ef-a43d-13637af7d9d5)
 
